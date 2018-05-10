@@ -1,0 +1,8 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET -  Login page,2,939,933,945,6.00,0.000%,.06236,0.14,0.02,2370.0
+POST - Operator Credential,2,232,212,253,20.50,0.000%,.06380,0.17,0.06,2749.0
+GET - Gps Tracking Page,2,300,290,310,10.00,0.000%,.06369,0.40,0.17,6470.0
+GET - Report Page,2,218,216,220,2.00,0.000%,.06383,0.24,0.17,3851.0
+GET - Govt Report page,2,586,212,960,374.00,0.000%,.06383,0.30,0.17,4830.0
+POST - Generate report,2,1193,821,1566,372.50,0.000%,.06263,0.09,0.21,1436.0
+TOTAL,12,578,212,1566,431.02,0.000%,.34367,1.21,0.72,3617.7
